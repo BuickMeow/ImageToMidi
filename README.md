@@ -1,1 +1,1 @@
-# ImageToMidi
+# ImageToMidi-1.0
